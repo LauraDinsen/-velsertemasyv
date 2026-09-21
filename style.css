@@ -1,0 +1,14 @@
+.img {
+  display: flex;
+  gap: 20px;
+}
+
+.billeder img {
+  width: 200px;
+}
+
+.img {
+  width: 150px;
+  height: 300px;
+  object-fit: contain;
+}
